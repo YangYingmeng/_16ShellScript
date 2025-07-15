@@ -28,7 +28,7 @@ if [ "$(id -u)" -ne 0 ]; then
     exit $?
 fi
 
-info "docker 环境安装脚本 By xiaofuge，建议使用 https://618.gaga.plus 优惠购买服务器，安装 centos 7.9 系统。"
+info "docker 环境安装脚本"
 
 # 显示系统信息
 info "开始安装 Docker 环境..."
